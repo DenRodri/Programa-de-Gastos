@@ -1,0 +1,76 @@
+D:\lo de denzel\Programacion\bin\Debug\Programacion.exe.config
+D:\lo de denzel\Programacion\bin\Debug\Programacion.exe
+D:\lo de denzel\Programacion\bin\Debug\Programacion.pdb
+D:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+D:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.SuggestedBindingRedirects.cache
+D:\lo de denzel\Programacion\obj\Debug\Programacion.Form1.resources
+D:\lo de denzel\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+D:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+D:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+D:\lo de denzel\Programacion\obj\Debug\Programacion.exe
+D:\lo de denzel\Programacion\obj\Debug\Programacion.pdb
+E:\lo de denzel\Programacion\bin\Debug\Programacion.exe.config
+E:\lo de denzel\Programacion\bin\Debug\Programacion.exe
+E:\lo de denzel\Programacion\bin\Debug\Programacion.pdb
+E:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+E:\lo de denzel\Programacion\obj\Debug\Programacion.Form1.resources
+E:\lo de denzel\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+E:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+E:\lo de denzel\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+E:\lo de denzel\Programacion\obj\Debug\Programacion.exe
+E:\lo de denzel\Programacion\obj\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\bin\Debug\Programacion.exe.config
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\bin\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\bin\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.Form1.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\lo de denzel\Programacion\obj\Debug\Programacion.Form2.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\bin\Debug\Programacion.exe.config
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\bin\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\bin\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.Form1.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.Form2.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.pdb
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.Form1.resources
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.Form2.resources
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.exe
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\obj\Debug\Programacion.pdb
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\bin\Debug\Programacion.exe.config
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\bin\Debug\Programacion.exe
+E:\ITESA\Analisis y diseño\42\lo de denzel\Programacion\bin\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.Form1.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.Form2.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.Properties.Resources.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.csproj.GenerateResource.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\obj\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\bin\Debug\Programacion.exe.config
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\bin\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\lo de denzel\Programacion2\bin\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\bin\Debug\Programacion.exe.config
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\bin\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\bin\Debug\Programacion.pdb
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.csproj.AssemblyReference.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.Form1.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.Form2.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.Properties.Resources.resources
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.csproj.GenerateResource.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.exe
+C:\Users\Denzel\Documents\Denzel\ITESA\Analisis y diseño\42\DistribuciondeGastos\Programacion\obj\Debug\Programacion.pdb
